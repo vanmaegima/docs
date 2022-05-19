@@ -30,7 +30,7 @@ The following is the list of packages needed (can be incomplete):
 | sphinx_toolbox          |
 | sphinx-prompt           |
 
-### Using virtualenv to Provide Requirements
+### Using virtualenv to Provide Requirementss
 
 The recommended way to build documentation (in order to avoid messing with
 global system-wide package storage) is to use `virtualenv` to set up the
